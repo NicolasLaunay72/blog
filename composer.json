@@ -1,0 +1,17 @@
+{
+    "name": "nicolas-launay/blog",
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NicolasLaunay72",
+            "email": "nico.lau.formation@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
